@@ -22,7 +22,7 @@
 
 # Credits 
 ## This is A Remix Bot Of Many UserBot.
-* [DARKCOBRA](https://github.com/HollowUBot/DARKCOBRA)
+* [DARKCOBRA](https://github.com/Dark-Cobra/DARKCOBRA)
 * [FridayUserBot](https://github.com/DevsExpo/FridayUserbot)
 * [Jarvisuserbot](https://github.com/Jarvis-Works/JarvisUserbot)
 * [Javes 2.0](https://github.com/Javes786/javes-2.0)
@@ -106,7 +106,7 @@ This is a userbot made for telegram. I made this userbot with help of all other 
 
 Simply clone the repository and run the main file:
 ```sh
-git clone https://github/KeinShin/Black-Lightning.git
+git clone https://github/HollowUBot/Black-Lightning.git
 cd Black Lightning 
 virtualenv -p /usr/bin/python3 venv
 . ./venv/bin/activate
