@@ -22,7 +22,7 @@
 
 # Credits 
 ## This is A Remix Bot Of Many UserBot.
-* [DARKCOBRA](https://github.com/DARK-COBRA/DARKCOBRA)
+* [DARKCOBRA](https://github.com/HollowUBot/DARKCOBRA)
 * [FridayUserBot](https://github.com/DevsExpo/FridayUserbot)
 * [Jarvisuserbot](https://github.com/Jarvis-Works/JarvisUserbot)
 * [Javes 2.0](https://github.com/Javes786/javes-2.0)
